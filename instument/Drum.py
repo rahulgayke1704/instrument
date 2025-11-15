@@ -1,6 +1,4 @@
-"""Guitar, Drum, Flute class तयार कर:
-- प्रत्येक class Instrument inherit करेल
-- play_sound() method override कर"""
+
 
 
 
